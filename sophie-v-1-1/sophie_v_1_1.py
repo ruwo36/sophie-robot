@@ -43,7 +43,7 @@ RETRIABLE_STATUS_CODES = [500, 502, 503, 504]
 CLIENT_SECRETS_FILE = "credentials/client_secrets.json"
 CLIENT_TOKEN_FILE = "credentials/token.json"
 AUDIO_ID_FILE = "credentials/audio_id.txt"
-VIDEOS_ID_FILE = "credentials/images_id.txt"
+VIDEOS_ID_FILE = "credentials/videos_id.txt"
 REPORT_FILE = "credentials/report.json"
 
 THEMBANIL_PATH = "thembanil/thumbnail.jpg"
