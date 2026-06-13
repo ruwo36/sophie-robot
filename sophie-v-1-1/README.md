@@ -66,8 +66,8 @@ The second version of Sophie Robot is more intelligent than the initial version 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ruwo36/sophie-robot-1-1.git
-   cd sophie-robot-1-1
+   git clone https://github.com/ruwo36/sophie-robot.git
+   cd sophie-robot/sophie-v-1-1
    ```
 
 2. **Install dependencies**
