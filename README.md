@@ -2,6 +2,13 @@
 
 Sophie is an intelligent robot powered by Python that autonomously creates and uploads YouTube content without any human intervention. From downloading assets to publishing videos and sending reports, Sophie handles the entire pipeline seamlessly.
 
+The process begins by:
+
+1. Downloading the necessary resources for content creation.
+2. Combining these resources to produce the final content.
+3. Upload this content to the YouTube platform.
+4. Send a report containing all details of previous operations.
+
 ## YouTube Channel
 Visit the YouTube channel to see the final results. **[Music House - Sophie's Channel](https://www.youtube.com/@music-house1245).**
 
