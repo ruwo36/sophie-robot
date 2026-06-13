@@ -90,8 +90,8 @@ Sophie automates the complete YouTube content creation workflow:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ruwo36/sophie-robot-1-0.git
-   cd sophie-robot-1-0
+   git clone https://github.com/ruwo36/sophie-robot.git
+   cd sophie-robot/sophie-v-1-0
    ```
 
 2. **Install dependencies**
